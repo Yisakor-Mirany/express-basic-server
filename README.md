@@ -19,4 +19,4 @@ It demonstrates basic routing, conditional routing, dynamic routes, query string
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/express-basic-server.git
+   git clone https://github.com/Yisakor-Mirany/express-basic-server.git
