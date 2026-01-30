@@ -20,3 +20,7 @@ It demonstrates basic routing, conditional routing, dynamic routes, query string
 1. Clone the repository:
    ```bash
    git clone https://github.com/Yisakor-Mirany/express-basic-server.git
+2. Install Dependencies
+   npm intsall
+3. Start the Server
+   node index.js
